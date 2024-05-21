@@ -1,0 +1,27 @@
+h2{
+    font-family: Impact;
+    letter-spacing: 1px;
+}
+
+button{
+    background-color: blue;
+    color:white;
+    padding:15px 30px;
+    border:3px solid black;
+    transition: background-color 1s;
+}
+
+button:hover{
+    background-color: green;
+}
+.layer{
+    padding: 50px;
+}
+.header{
+    background-image: url('../img/v347batch3-katie-25.jpg');
+    height:90vh;
+    width:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
